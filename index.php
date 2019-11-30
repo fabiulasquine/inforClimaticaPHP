@@ -33,6 +33,23 @@ and open the template in the editor.
             <meta name="doc-class" content="Completed" /> 
             <meta name="reply-to" content="fabiula.squine@gmail.com"/>
             
+            <!-- Tags Para rede social Facebook -->
+            <meta property="og:url" content="https://fabiula-clima-senai.herokuapp.com" />
+            <meta property="og:locale" content="pt_BR" />
+            <meta property="og:type" content="website" />
+            <meta property="og:site_name" content="Informações Climaticas" />
+            <meta property="og:title" content="Informações Climaticas" />
+            <meta property="og:description" content="Site de informações climaticas da cidade de Brusque, Santa Catarina. Desenvolvido por Fabiula Eduarda Squine." />
+            <meta property="og:image" content="https://fabiula-clima-senai.herokuapp.com/img/icones/maxima.png" />
+            <meta property="og:image:width" content="400" />
+            <meta property="og:image:height" content="120" />
+            <meta property="fb:app_id" content="" />
+            
+            <!-- Tags Para rede social Twitter -->
+            <meta name="twitter:card" content="summary_large_image" />
+            <meta name="twitter:description" content="Site de informações climaticas da cidade de Brusque, Santa Catarina. Desenvolvido por Fabiula Eduarda Squine." />
+            <meta name="twitter:title" content="Informações Climaticas" />
+
         
     </head>
     <body>
