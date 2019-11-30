@@ -6,7 +6,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>Fabiula Eduarda Squine</title>
+        <title>Informações Climaticas</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -16,7 +16,24 @@ and open the template in the editor.
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
         <script src="js/clima.js"></script>
-
+        
+        <!-- Tags Gerais -->
+            <meta NAME="DESCRIPTION" CONTENT="Site de informações climaticas da cidade de Brusque, Santa Catarina. Desenvolvido por Fabiula Eduarda Squine. "/>
+            <meta NAME="ABSTRACT" CONTENT="Informações Climaticas"/>
+            <meta name="keywords" content="clima, tempo, previsão do tempo, temperatura,temperatura do municipio de Brusque, temperatura em Brusque, tempo para Brusque, clima para Brusque, temperatura minima, temperatura atual,
+                  clima atual, clima atual em Brusque, Clima Brusque SC, Umidade do ar em Brusque,  Umidade atual, previsão de hoje, Por do sol horario. "/>
+            <meta NAME="title" CONTENT="Informações Climaticas" />
+            <meta NAME="identifier-url" content="https://fabiula-clima-senai.herokuapp.com" />
+            <meta NAME="author" content="Fabiula Eduarda Squine" />
+            <meta NAME="ROBOTS" CONTENT="All" />
+            <meta NAME="RATING" CONTENT="general" />
+            <meta NAME="DISTRIBUTION" CONTENT="global" />
+            <meta NAME="LANGUAGE" CONTENT="pt-br" />
+            <meta name="content-language" content="portuguese" />
+            <meta name="doc-class" content="Completed" /> 
+            <meta name="reply-to" content="fabiula.squine@gmail.com"/>
+            
+        
     </head>
     <body>
         
